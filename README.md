@@ -20,7 +20,7 @@ Metalios (Discord: Metalios#2673)
 * Enjoy your updated content!
 
 ### Release Update - Manual
-* Go to Hero-Designer-DB [Master](https://github.com/Reborn-Team/Hero-Designer-DB)
+* Go to [Hero-Designer-DB-master](https://github.com/Reborn-Team/Hero-Designer-DB)
 * Above right, find and click the green button labeled __"Clone or Download"__
 * Click __"Download ZIP"__
 * Open downloaded file
@@ -28,7 +28,7 @@ Metalios (Discord: Metalios#2673)
   * _For a clean install, only extract the __"Data"__ and __"Images"__ folders_
 
 ### Cutting Edge - Manual
-* Go to Hero-Designer-DB [Master](https://github.com/Reborn-Team/Hero-Designer-DB/tree/MRBU)
+* Go to [Hero-Designer-DB-MRBU](https://github.com/Reborn-Team/Hero-Designer-DB/tree/MRBU)
 * Above right, find and click the green button labeled __"Clone or Download"__
 * Click __"Download ZIP"__
 * Open downloaded file
