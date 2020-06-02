@@ -13,7 +13,7 @@ Metalios (Discord: Metalios#2673)
 ---
 
 # Install Instructions
-### Release Update - Automatic
+### Release Update - Automatic _(preferred method)_
 * Open Mids Reborn app
 * Click __"Options"__ menu, then __"Check for Updates Now"__
 * Wait for update to finish
@@ -36,20 +36,11 @@ Metalios (Discord: Metalios#2673)
 ---
 
 ## __MRBU Features__
-### Archetype Ordering
-* MRBU currently orders the archetype selection dropdown menu in the same order as Homecoming's in-game list.
-  * This does, however, cause the menu to have minimal organization other than by pre-Going Rogue factions, and may change in the future.  
-
-### Database Version Number
-* As of this Issue/Page number, the Mids database version is going to be formatted to match the year and matching Homecoming Issue/Page number of the last update, in order to make comparing versions at a glance easier for both devs and players.
-  * __Year:__ 2020  
-  __HC Vers:__ Issue 26, Page 4  
-  __DB Date:__ 23/03/2020  
-  __DB Vers:__ 20.2604
-
 ### Homecoming Beta Server Previews
 * We’re in the process of adding Beta-specific content and changes to Mids’ to allow for analysis and number crunching of Homecoming’s beta changes. These sets may be found by looking for anything beginning with "zn_" (new) or "zc_" (changed), which in the case of powersets will push them to the bottom of their respective lists.
-* As the beta server is changing much more frequently than on live, and the beta BIN files are currently difficult to parse to extract raw data, this added content may not always be 100% accurate. We’ll do our best to get them as close as we can!
+  * When this content is pushed to live, the Beta-specific content will remain in Mids' for a limited time to allow for easy switching back to Live for your builds.  
+  _Please don't forget to do this!_
+* As the beta server is changing much more frequently than on live this added content may not always be 100% accurate. We’ll do our best to get them as close as we can!
 
 ---
 
