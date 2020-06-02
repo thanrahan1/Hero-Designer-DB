@@ -20,13 +20,15 @@ Metalios (Discord: Metalios#2673)
 * Enjoy your updated content!
 
 ### Release Update - Manual
-* Go to MRBU [Releases](https://github.com/zethriller/MRB-Updates/releases)
-* Click __"Source code (zip)"__ under __"Assets"__ section of most recent Weekly
+* Go to Hero-Designer-DB [Master](https://github.com/Reborn-Team/Hero-Designer-DB)
+* Above right, find and click the green button labeled __"Clone or Download"__
+* Click __"Download ZIP"__
 * Open downloaded file
-* Extract contents of __"Hero-Designer-DB-######"__ to Mids install folder, overwriting as prompted
+* Extract contents of __"Hero-Designer-DB-master"__ to Mids install folder, overwriting as prompted
   * _For a clean install, only extract the __"Data"__ and __"Images"__ folders_
 
-### Cutting Edge
+### Cutting Edge - Manual
+* Go to Hero-Designer-DB [Master](https://github.com/Reborn-Team/Hero-Designer-DB/tree/MRBU)
 * Above right, find and click the green button labeled __"Clone or Download"__
 * Click __"Download ZIP"__
 * Open downloaded file
