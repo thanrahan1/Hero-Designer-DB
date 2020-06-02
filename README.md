@@ -1,5 +1,6 @@
-# Mids' Reborn Unofficial (MRBU)
-### Current MRBU Version: _20.2605_
+# Mids' Reborn Unpolished (MRBU)
+### Current Mids Version: _2.7.2.10_
+### Current MRBU Version: _20.0515_
 
 ___Please note that all unofficial updates are based off of City of Heroes: Homecoming and may not reflect other City of Heroes server implementations.___
 
@@ -12,18 +13,24 @@ Metalios (Discord: Metalios#2673)
 ---
 
 # Install Instructions
-### Release Update
+### Release Update - Automatic
+* Open Mids Reborn app
+* Click __"Options"__ menu, then __"Check for Updates Now"__
+* Wait for update to finish
+* Enjoy your updated content!
+
+### Release Update - Manual
 * Go to MRBU [Releases](https://github.com/zethriller/MRB-Updates/releases)
 * Click __"Source code (zip)"__ under __"Assets"__ section of most recent Weekly
 * Open downloaded file
-* Extract contents of __"MRB-Updates-######"__ to Mids install folder, overwriting as prompted
+* Extract contents of __"Hero-Designer-DB-######"__ to Mids install folder, overwriting as prompted
   * _For a clean install, only extract the __"Data"__ and __"Images"__ folders_
 
 ### Cutting Edge
 * Above right, find and click the green button labeled __"Clone or Download"__
 * Click __"Download ZIP"__
 * Open downloaded file
-* Extract contents of __"MRB-Updates-master"__ to Mids install folder, overwriting as prompted
+* Extract contents of __"Hero-Designer-DB-MRBU"__ to Mids install folder, overwriting as prompted
   * _For a clean install, only extract the __"Data"__ and __"Images"__ folders_
 
 ---
